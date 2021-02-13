@@ -2,18 +2,25 @@
 Latest Version: 4.2_03
 --------
 
-## Dev Build #3 (4.2_03) Changes (Unreleased):
+## Dev Build #3 (4.2_03) Changes
 
-### Fixes:
+### Fixes
 > Fixed Parenting of the Extrude Meshes<br>
+> Disabled Denosier by Default
+> - This is due to some older systems not supporting SSE4.2<br>
 
-### Added:
+### Changes
+> Edited more Materials<br>
+> Changed the default HD Eye Texture 
+> Now using a different EyeWhite Texture for the template
+
+### Added
 > Easy Parent Objects<br>
-> - Compatible with Head and Wrists<br>
+> - Compatible with Head and Wrists
 
 ---
 
-## Dev Build #2 (4.2_02) Changes:
+## Dev Build #2 (4.2_02) Changes
 
 ### Fixes
 > Re-enabled Extra's and Origin's in the Viewport display settings<br>
@@ -22,17 +29,17 @@ Latest Version: 4.2_03
 
 ## Dev Build #1 (4.2_01) Changes:
 
-### Fixes:
+### Fixes
 > Leg Lattice Alignment<br>
 > Fixed Eye UV's<br>
 > Teeth Alignment<br>
 > Emission Control for Eyewhites<br>
 
-### Changes:
+### Changes
 > Redesign of Boneshapes<br>
 > Skin Changed<br>
 > Dropped LTS Tag<br>
 
-### Removes:
+### Removes
 > Removed IK/FK Hybrid System<br>
 > - Reverted to traditional Switch
