@@ -2,7 +2,7 @@
 Latest Version: 4.2_03
 --------
 
-## Dev Build #3 (4.2_03) Changes (Unreleased)
+## Dev Build #3 (4.2_03) Changes
 
 ### Fixes
 > Fixed Parenting of the Extrude Meshes<br>
