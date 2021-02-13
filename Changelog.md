@@ -5,34 +5,34 @@ Latest Version: 4.2_03
 ## Dev Build #3 (4.2_03) Changes (Unreleased):
 
 ### Fixes:
-> Fixed Parenting of the Extrude Meshes
+> Fixed Parenting of the Extrude Meshes<br>
 
 ### Added:
-> Easy Parent Objects
-> - Compatible with Head and Wrists
+> Easy Parent Objects<br>
+> - Compatible with Head and Wrists<br>
 
 ---
 
 ## Dev Build #2 (4.2_02) Changes:
 
 ### Fixes
-> Re-enabled Extra's and Origin's in the Viewport display settings
+> Re-enabled Extra's and Origin's in the Viewport display settings<br>
 
 ---
 
 ## Dev Build #1 (4.2_01) Changes:
 
 ### Fixes:
-> Leg Lattice Alignment
-> Fixed Eye UV's
-> Teeth Alignment
-> Emission Control for Eyewhites
+> Leg Lattice Alignment<br>
+> Fixed Eye UV's<br>
+> Teeth Alignment<br>
+> Emission Control for Eyewhites<br>
 
 ### Changes:
-> Redesign of Boneshapes
-> Skin Changed
-> Dropped LTS Tag
+> Redesign of Boneshapes<br>
+> Skin Changed<br>
+> Dropped LTS Tag<br>
 
 ### Removes:
-> Removed IK/FK Hybrid System
+> Removed IK/FK Hybrid System<br>
 > - Reverted to traditional Switch
