@@ -1,6 +1,16 @@
 # Sakura's Advanced Character Rig
-Latest Version: 4.2_03
+Latest Version: 4.2_04
 --------
+
+## Dev Build #3 (4.2_04) Changes
+
+### Fixes
+> Fixed Redundant Subdivision Surface<br>
+> Arm IK was not scaled Properly<br>
+> Leg FK Bones not appearing<br>
+> Disabled Adaptive Sampling
+
+---
 
 ## Dev Build #3 (4.2_03) Changes
 
