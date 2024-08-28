@@ -1,5 +1,5 @@
 # SACR_Experimental
-
+**NOTICE** This Repository has been Archived, all future updates have been moved to [SACR-MC-RIG](https://github.com/SakuraSedaia/SACR-MC-Rig)
 -----
 
 ## What is SACR Experimental?
